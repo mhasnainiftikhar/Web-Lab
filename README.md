@@ -1,3 +1,3 @@
 # Web-Lab
-web technologies labs work
+web technologies labs work.
 Author:Hasnain Iftikhar
